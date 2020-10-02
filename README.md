@@ -1,2 +1,2 @@
-# 100_days_of_CP
-Attempt to solve CP problems everyday for 100 consecutive days
+# CP_Problems
+A collection of CP problems which can be helpful for others
